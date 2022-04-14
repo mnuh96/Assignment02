@@ -1,2 +1,2 @@
-# Assignment02
+# WP_Assignment02
 This is the 2nd Assignment of Web Programming.
